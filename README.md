@@ -1,1 +1,1 @@
-# org-chart-json-data
+# org-chart.json contains json data
